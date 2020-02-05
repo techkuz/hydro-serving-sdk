@@ -190,6 +190,7 @@ class Model:
             return res
 
 
+
 class PipelineServable:
     def __init__(self, model, weight):
         self.model = model
